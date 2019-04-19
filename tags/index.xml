@@ -39,11 +39,29 @@
     </item>
     
     <item>
+      <title>Matching</title>
+      <link>/tags/matching/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Power Analysis</title>
       <link>/tags/power-analysis/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/power-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propensity Scores</title>
+      <link>/tags/propensity-scores/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/propensity-scores/</guid>
       <description></description>
     </item>
     

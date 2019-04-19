@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.54.0" />
+
+
+<title>Getting Started with Matching Methods - StatLab Articles</title>
+<meta property="og:title" content="Getting Started with Matching Methods - StatLab Articles">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="378"
+         height="71"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/"> About</a></li>
+    
+    <li><a href="/categories/"> Categories</a></li>
+    
+    <li><a href="/tags/"> Tags</a></li>
+    
+    <li><a href="https://data.library.virginia.edu/">RDS</a></li>
+    
+    <li><a href="https://www.library.virginia.edu/">UVA Library</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">2 min read</span>
+    
+
+    <h1 class="article-title">Getting Started with Matching Methods</h1>
+
+    
+    <span class="article-date">2019-04-19</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p>A frequent research question is whether or not some “treatment” causes an effect. For example, does taking aspirin daily reduce the chance of a heart attack? Does more sleep lead to better academic performance for teenagers? Does smoking increase the risk of chronic obstructive pulmonary disease (COPD)?</p>
+<p>To truly answer such questions, we need a time machine and a lack of ethics. We would need to be able to take a subject and, say, make him or her smoke for several years and observe whether or not they get COPD. Then travel back in time and observe the same subject NOT smoking to see if they get COPD. Only then could we really see the effect of smoking on that person’s chances of contracting COPD. To estimate the average effect of smoking on COPD, we would need to do the same with many subjects. Clearly the laws of physics and all IRBs forbid this.</p>
+<p>To work around these issues researchers often employ what are called “matching methods”. This involves taking observational data, such as data from surveys, and matching people who have similar characteristics but different treatments. I can’t travel through time and make a person smoke and not smoke. But I can identify two people who are similar in almost every way except their smoking status. Here’s a 200-pound, middle class, college educated, Caucasian man who smokes, and a 200-pound, middle class, college educated, Caucasian man who does NOT smoke. They’re not the same people but they’re similar. It stands to reason the effects of smoking on the smoker can approximate the effect of smoking on the non-smoker, and vice versa. This is the idea of matching methods: create two such groups that are similar in every respect but their treatment.</p>
+<p>For a fantastic and easy-to-read overview of matching methods, see Elizabeth Stuart’s 2010 paper “Matching Methods for Causal Inference: A Review and a Look Forward“. See also Michele Claibourn’s excellent 2014 workshop on matching methods. In this brief article, we demonstrate how to get started with matching methods using R and the MatchIt package.</p>
+<p>To begin we need to load some data. For demonstration purposes we’ll use a sample of the 2015 BRFSS survey (pronounced bur-fiss). BRFSS stands for Behavioral Risk Factor Surveillance System. BRFSS is a CDC telephone survey that collects state data about U.S. residents regarding their health-related risk behaviors and chronic health conditions. The entire survey has over 400,000 records and over 300 variables. The sample we’ll work with has 5000 records and 7 variables.</p>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+		<p>&copy; 2019 by the Rector and Visitors of the <a href="http://www.virginia.edu">University of Virginia</a></p>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+

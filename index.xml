@@ -39,5 +39,15 @@
 hist(state.area)After a log transformation, notice the histogram is more or less symmetric.</description>
     </item>
     
+    <item>
+      <title>Getting Started with Matching Methods</title>
+      <link>/2018/04/24/getting-started-with-matching-methods/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/04/24/getting-started-with-matching-methods/</guid>
+      <description>A frequent research question is whether or not some “treatment” causes an effect. For example, does taking aspirin daily reduce the chance of a heart attack? Does more sleep lead to better academic performance for teenagers? Does smoking increase the risk of chronic obstructive pulmonary disease (COPD)?
+To truly answer such questions, we need a time machine and a lack of ethics. We would need to be able to take a subject and, say, make him or her smoke for several years and observe whether or not they get COPD.</description>
+    </item>
+    
   </channel>
 </rss>
