@@ -21,11 +21,20 @@
     </item>
     
     <item>
-      <title>Interpreting Log Transformations in a Linear Model</title>
-      <link>/2019/04/17/interpreting-log-transformations-in-a-linear-model/</link>
-      <pubDate>Wed, 17 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Assessing Type S and Type M Errors</title>
+      <link>/2018/10/31/assessing-type-s-and-type-m-errors/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2019/04/17/interpreting-log-transformations-in-a-linear-model/</guid>
+      <guid>/2018/10/31/assessing-type-s-and-type-m-errors/</guid>
+      <description>The paper Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors by Andrew Gelman and John Carlin introduces the idea of performing design calculations to help prevent researchers from being misled by statistically significant results in studies with small samples and/or noisy measurements. The main idea is that researchers often overestimate effect sizes in power calculations and collect noisy (ie, highly variable) data, which can make statistically significant results suspect.</description>
+    </item>
+    
+    <item>
+      <title>Interpreting Log Transformations in a Linear Model</title>
+      <link>/2018/08/17/interpreting-log-transformations-in-a-linear-model/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/08/17/interpreting-log-transformations-in-a-linear-model/</guid>
       <description>Log transformations are often recommended for skewed data, such as monetary measures or certain biological and demographic measures. Log transforming data usually has the effect of spreading out clumps of data and bringing together spread-out data. For example, below is a histogram of the areas of all 50 US states. It is skewed to the right due to Alaska, California, Texas and a few others.
 hist(state.area)After a log transformation, notice the histogram is more or less symmetric.</description>
     </item>

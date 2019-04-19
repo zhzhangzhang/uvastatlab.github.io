@@ -8,8 +8,13 @@
   </url>
   
   <url>
-    <loc>/2019/04/17/interpreting-log-transformations-in-a-linear-model/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>/2018/10/31/assessing-type-s-and-type-m-errors/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/08/17/interpreting-log-transformations-in-a-linear-model/</loc>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,31 +24,37 @@
   
   <url>
     <loc>/tags/diagnostic-plots/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/linear-regression/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/log-transformations/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/power-analysis/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/r/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +66,19 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/type-m-error/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/type-s-error/</loc>
+    <lastmod>2018-10-31T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
