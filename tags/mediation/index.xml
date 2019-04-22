@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mediation on StatLab Articles</title>
+    <link>/tags/mediation/</link>
+    <description>Recent content in Mediation on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/mediation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Moderated Mediation</title>
+      <link>/2018/03/02/getting-started-with-moderated-mediation/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/02/getting-started-with-moderated-mediation/</guid>
+      <description>In a previous post we demonstrated how to perform a basic mediation analysis. In this post we look at performing a moderated mediation analysis.
+The basic idea is that a mediator may depend on another variable called a “moderator”. For example, in our mediation analysis post we hypothesized that self-esteem was a mediator of student grades on the effect of student happiness. We illustrate this below with a path diagram.</description>
+    </item>
+    
+  </channel>
+</rss>

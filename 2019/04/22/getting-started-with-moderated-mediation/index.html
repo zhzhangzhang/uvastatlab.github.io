@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.54.0" />
+
+
+<title>Getting Started with Moderated Mediation - StatLab Articles</title>
+<meta property="og:title" content="Getting Started with Moderated Mediation - StatLab Articles">
+
+
+  <link href='/favicon.ico' rel='icon' type='image/x-icon'/>
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="/css/fonts.css" media="all">
+<link rel="stylesheet" href="/css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="/" class="nav-logo">
+    <img src="/images/logo.png"
+         width="378"
+         height="71"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="/about/"> About</a></li>
+    
+    <li><a href="/categories/"> Categories</a></li>
+    
+    <li><a href="/tags/"> Tags</a></li>
+    
+    <li><a href="https://data.library.virginia.edu/">RDS</a></li>
+    
+    <li><a href="https://www.library.virginia.edu/">UVA Library</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">1 min read</span>
+    
+
+    <h1 class="article-title">Getting Started with Moderated Mediation</h1>
+
+    
+    <span class="article-date">2019-04-22</span>
+    
+
+    <div class="article-content">
+      
+
+
+<p><a href="http://data.library.virginia.edu/introduction-to-mediation-analysis/" rel="noopener" target="_blank">In a previous post</a> we demonstrated how to perform a basic mediation analysis. In this post we look at performing a moderated mediation analysis.</p>
+<p>The basic idea is that a mediator may depend on another variable called a “moderator”. For example, in our mediation analysis post we hypothesized that self-esteem was a mediator of student grades on the effect of student happiness. We illustrate this below with a path diagram. We see a direct effect of grades on happiness, but also an indirect effect of grades on happiness <em>through self-esteem</em>. A mediation analysis helps us investigate and quantify that indirect effect.</p>
+<p><img src="/img/mediation_diagram.png" /></p>
+<p>But what if we suspect that, say, gender moderates that indirect effect? In other words, what if we think that the mediation effect of self-esteem might differ between females and males? To analyze that question we use <em>moderated mediation</em>.</p>
+<p>The difference between mediation and moderated mediation is that we include an interaction for the moderator in our models. Let’s demonstrate using <a href="https://www.r-project.org/" rel="noopener" target="_blank">R</a>.</p>
+<p>First we read in the data from our mediation analysis post, but this time with a gender variable added. (Note: this data and example are made up purely for illustration purposes.)</p>
+<div style="padding-left: 40px;font-size: 80%">
+<pre>
+<p>myData &lt;- read.csv('<a href="http://static.lib.virginia.edu/statlab/materials/data/mediationData2.csv&#39;" class="uri">http://static.lib.virginia.edu/statlab/materials/data/mediationData2.csv'</a>;)</p>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="/index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="/images/hugo-logo.png" alt="Img link to Hugo website" width="22" height="22"></a>
+          </li>
+        </ul>
+		<p>&copy; 2019 by the Rector and Visitors of the <a href="http://www.virginia.edu">University of Virginia</a></p>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
