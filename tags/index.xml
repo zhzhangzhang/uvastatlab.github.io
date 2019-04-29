@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Effect Plots</title>
+      <link>/tags/effect-plots/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/effect-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Linear Regression</title>
       <link>/tags/linear-regression/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
@@ -89,6 +98,15 @@
       <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/propensity-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportional Odds Logisitic Regression</title>
+      <link>/tags/proportional-odds-logisitic-regression/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proportional-odds-logisitic-regression/</guid>
       <description></description>
     </item>
     

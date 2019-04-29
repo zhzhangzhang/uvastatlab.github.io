@@ -68,5 +68,15 @@ The basic idea is that a mediator may depend on another variable called a “mod
       <description>Multivariate Multiple Regression is the method of modeling multiple responses, or dependent variables, with a single set of predictor variables. For example, we might want to model both math and reading SAT scores as a function of gender, race, parent income, and so forth. This allows us to evaluate the relationship of, say, gender with each score. You may be thinking, “why not just run separate regressions for each dependent variable?</description>
     </item>
     
+    <item>
+      <title>Visualizing the Effects of Proportional-Odds Logistic Regression</title>
+      <link>/2017/05/10/visualizing-the-effects-of-proportional-odds-logistic-regression/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/10/visualizing-the-effects-of-proportional-odds-logistic-regression/</guid>
+      <description>Proportional-odds logistic regression is often used to model an ordered categorical response. By “ordered”, we mean categories that have a natural ordering, such as “Disagree”, “Neutral”, “Agree”, or “Everyday”, “Some days”, “Rarely”, “Never”. For a primer on proportional-odds logistic regression, see our post, Fitting and Interpreting a Proportional Odds Model. In this post we demonstrate how to visualize a proportional-odds model in R.
+To begin, we load the effects package.</description>
+    </item>
+    
   </channel>
 </rss>
