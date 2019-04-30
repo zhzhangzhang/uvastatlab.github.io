@@ -69,5 +69,15 @@ The basic idea is that a mediator may depend on another variable called a “mod
 To begin, we load the effects package.</description>
     </item>
     
+    <item>
+      <title>Getting started with the purrr package in R</title>
+      <link>/2017/04/14/getting-started-with-the-purrr-package-in-r/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/04/14/getting-started-with-the-purrr-package-in-r/</guid>
+      <description>If you’re wondering what exactly the purrr package does, then this blog post is for you.
+Before we get started, we should mention the Iteration chapter in R for Data Science by Garrett Grolemund and Hadley Wickham. We think this is the most thorough and extensive introduction to the purrr package currently available (at least at the time of this writing.) Wickham is one of the authors of the purrr package and he spends a good deal of the chapter clearly explaining how it works.</description>
+    </item>
+    
   </channel>
 </rss>
