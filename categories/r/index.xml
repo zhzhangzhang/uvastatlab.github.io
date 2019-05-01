@@ -6,10 +6,19 @@
     <description>Recent content in R on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting Started with Multiple Imputation in R</title>
+      <link>/2019/05/01/getting-started-with-multiple-imputation-in-r/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/01/getting-started-with-multiple-imputation-in-r/</guid>
+      <description>library(dplyr)library(mice)library(foreign)library(car)set.seed(145)Whenever we are dealing with a dataset, we almost always run into a problem that may decrease our confidence in the results that we are getting - missing data! Examples of missing data can be found in surveys - where respondents intentionally refrained from answering a question, didn’t answer a question because it is not applicable to them, or simply forgot to give an answer.</description>
+    </item>
     
     <item>
       <title>Assessing Type S and Type M Errors</title>
