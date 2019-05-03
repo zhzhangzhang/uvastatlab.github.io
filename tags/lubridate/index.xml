@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lubridate on StatLab Articles</title>
+    <link>/tags/lubridate/</link>
+    <description>Recent content in Lubridate on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/lubridate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Working with dates and time in R using the lubridate package</title>
+      <link>/2017/01/11/working-with-dates-and-time-in-r-using-the-lubridate-package/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/11/working-with-dates-and-time-in-r-using-the-lubridate-package/</guid>
+      <description>Sometimes we have data with dates and/or times that we want to manipulate or summarize. A common example in the health sciences is time-in-study. A subject may enter a study on Feb 12, 2008 and exit on November 4, 2009. How many days was the person in the study? (Don’t forget 2008 was a leap year; February had 29 days.) What was the median time-in-study for all subjects?
+Another example are experiments that time participants performing an activity, applies a treatment to certain members, and then re-times the activity.</description>
+    </item>
+    
+  </channel>
+</rss>
