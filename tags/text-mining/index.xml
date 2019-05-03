@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Text Mining on StatLab Articles</title>
+    <link>/tags/text-mining/</link>
+    <description>Recent content in Text Mining on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/text-mining/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Introduction to Analyzing Twitter Data with R</title>
+      <link>/2019/05/03/an-introduction-to-analyzing-twitter-data-with-r/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/03/an-introduction-to-analyzing-twitter-data-with-r/</guid>
+      <description>In this article, I will walk you through why a researcher or professional might find data from Twitter useful, explain how to collect the relevant tweets and information from Twitter in R, and then finish by demonstrating a few useful analyses (along with accompanying cleaning) you might perform on your Twitter data.
+Part One: Why Twitter Data?To begin, we should ask: why would someone be interested in using data from Twitter?</description>
+    </item>
+    
+  </channel>
+</rss>
