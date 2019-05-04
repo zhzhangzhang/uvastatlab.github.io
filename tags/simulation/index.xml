@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>power analysis on StatLab Articles</title>
-    <link>/tags/power-analysis/</link>
-    <description>Recent content in power analysis on StatLab Articles</description>
+    <title>simulation on StatLab Articles</title>
+    <link>/tags/simulation/</link>
+    <description>Recent content in simulation on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/power-analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/simulation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/2019/05/04/simulating-a-logistic-regression-model/</guid>
       <description>Logistic regression is a method for modeling binary data as a function of other variables. For example we might want to model the occurrence or non-occurrence of a disease given predictors such as age, race, weight, etc. The result is a model that returns a predicted probability of occurrence (or non-occurrence, depending on how we set up our data) given certain values of our predictors. We might also be able to interpret the coefficients in our model to summarize how a change in one predictor affects the odds of occurrence.</description>
-    </item>
-    
-    <item>
-      <title>Assessing Type S and Type M Errors</title>
-      <link>/2018/10/31/assessing-type-s-and-type-m-errors/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/10/31/assessing-type-s-and-type-m-errors/</guid>
-      <description>The paper Beyond Power Calculations: Assessing Type S (Sign) and Type M (Magnitude) Errors by Andrew Gelman and John Carlin introduces the idea of performing design calculations to help prevent researchers from being misled by statistically significant results in studies with small samples and/or noisy measurements. The main idea is that researchers often overestimate effect sizes in power calculations and collect noisy (ie, highly variable) data, which can make statistically significant results suspect.</description>
     </item>
     
   </channel>
