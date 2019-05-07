@@ -126,5 +126,15 @@ Before we get started, we should mention the Iteration chapter in R for Data Sci
 Another example are experiments that time participants performing an activity, applies a treatment to certain members, and then re-times the activity.</description>
     </item>
     
+    <item>
+      <title>The Wilcoxon Rank Sum Test</title>
+      <link>/2017/01/05/the-wilcoxon-rank-sum-test/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/01/05/the-wilcoxon-rank-sum-test/</guid>
+      <description>The Wilcoxon Rank Sum Test is often described as the non-parametric version of the two-sample t-test. You sometimes see it in analysis flowcharts after a question such as “is your data normal?” A “no” branch off this question will recommend a Wilcoxon test if you’re comparing two groups of continuous measures.
+So what is this Wilcoxon test? What makes it non-parametric? What does that even mean? And how do we implement it and interpret it?</description>
+    </item>
+    
   </channel>
 </rss>

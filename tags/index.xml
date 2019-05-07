@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>binary logistic regression</title>
+      <title>Binary Logistic Regression</title>
       <link>/tags/binary-logistic-regression/</link>
       <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
       
@@ -21,25 +21,16 @@
     </item>
     
     <item>
-      <title>power analysis</title>
-      <link>/tags/power-analysis/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      <title>Bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/power-analysis/</guid>
+      <guid>/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>simulation</title>
-      <link>/tags/simulation/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/simulation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>data wrangling</title>
+      <title>Data Wrangling</title>
       <link>/tags/data-wrangling/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
@@ -48,61 +39,7 @@
     </item>
     
     <item>
-      <title>sentiment analysis</title>
-      <link>/tags/sentiment-analysis/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sentiment-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>text mining</title>
-      <link>/tags/text-mining/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/text-mining/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>twitter</title>
-      <link>/tags/twitter/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/twitter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiple imputation</title>
-      <link>/tags/multiple-imputation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multiple-imputation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>type m error</title>
-      <link>/tags/type-m-error/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/type-m-error/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>type s error</title>
-      <link>/tags/type-s-error/</link>
-      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/type-s-error/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>diagnostic plots</title>
+      <title>Diagnostic Plots</title>
       <link>/tags/diagnostic-plots/</link>
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
@@ -111,70 +48,7 @@
     </item>
     
     <item>
-      <title>linear regression</title>
-      <link>/tags/linear-regression/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linear-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>log transformations</title>
-      <link>/tags/log-transformations/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/log-transformations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>matching</title>
-      <link>/tags/matching/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>propensity scores</title>
-      <link>/tags/propensity-scores/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/propensity-scores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mediation</title>
-      <link>/tags/mediation/</link>
-      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mediation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>manova</title>
-      <link>/tags/manova/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/manova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multivariate multiple regression</title>
-      <link>/tags/multivariate-multiple-regression/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multivariate-multiple-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>effect plots</title>
+      <title>Effect Plots</title>
       <link>/tags/effect-plots/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
@@ -183,7 +57,97 @@
     </item>
     
     <item>
-      <title>proportional odds logisitic regression</title>
+      <title>Linear Regression</title>
+      <link>/tags/linear-regression/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Log Transformations</title>
+      <link>/tags/log-transformations/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/log-transformations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lubridate</title>
+      <link>/tags/lubridate/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lubridate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manova</title>
+      <link>/tags/manova/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/manova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matching</title>
+      <link>/tags/matching/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mediation</title>
+      <link>/tags/mediation/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Imputation</title>
+      <link>/tags/multiple-imputation/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multiple-imputation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Multiple Regression</title>
+      <link>/tags/multivariate-multiple-regression/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multivariate-multiple-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power Analysis</title>
+      <link>/tags/power-analysis/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propensity Scores</title>
+      <link>/tags/propensity-scores/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/propensity-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proportional Odds Logisitic Regression</title>
       <link>/tags/proportional-odds-logisitic-regression/</link>
       <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
       
@@ -192,11 +156,65 @@
     </item>
     
     <item>
-      <title>lubridate</title>
-      <link>/tags/lubridate/</link>
-      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Sentiment Analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/lubridate/</guid>
+      <guid>/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation</title>
+      <link>/tags/simulation/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Mining</title>
+      <link>/tags/text-mining/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/text-mining/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>/tags/twitter/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type M Error</title>
+      <link>/tags/type-m-error/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/type-m-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Type S Error</title>
+      <link>/tags/type-s-error/</link>
+      <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/type-s-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wilcoxon Rank Sum Test</title>
+      <link>/tags/wilcoxon-rank-sum-test/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wilcoxon-rank-sum-test/</guid>
       <description></description>
     </item>
     
