@@ -127,5 +127,16 @@ Another example are experiments that time participants performing an activity, a
 So what is this Wilcoxon test? What makes it non-parametric? What does that even mean? And how do we implement it and interpret it?</description>
     </item>
     
+    <item>
+      <title>Pairwise comparisons of proportions</title>
+      <link>/2016/10/20/pairwise-comparisons-of-proportions/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/20/pairwise-comparisons-of-proportions/</guid>
+      <description>Pairwise comparison means comparing all pairs of something. If I have three items A, B and C, that means comparing A to B, A to C, and B to C. Given n items, I can determine the number of possible pairs using the binomial coefficient:
+\[ \frac{n!}{2!(n - 2)!} = \binom {n}{2}\]
+Using the R statistical computing environment, we can use the choose function to quickly calculate this. For example, how many possible 2-item combinations can I “choose” from 10 items:</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pairwise Comparisons on StatLab Articles</title>
+    <link>/tags/pairwise-comparisons/</link>
+    <description>Recent content in Pairwise Comparisons on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pairwise-comparisons/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pairwise comparisons of proportions</title>
+      <link>/2016/10/20/pairwise-comparisons-of-proportions/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/20/pairwise-comparisons-of-proportions/</guid>
+      <description>Pairwise comparison means comparing all pairs of something. If I have three items A, B and C, that means comparing A to B, A to C, and B to C. Given n items, I can determine the number of possible pairs using the binomial coefficient:
+\[ \frac{n!}{2!(n - 2)!} = \binom {n}{2}\]
+Using the R statistical computing environment, we can use the choose function to quickly calculate this. For example, how many possible 2-item combinations can I “choose” from 10 items:</description>
+    </item>
+    
+  </channel>
+</rss>
