@@ -41,5 +41,15 @@ Before we get started, we should mention the Iteration chapter in R for Data Sci
 Another example are experiments that time participants performing an activity, applies a treatment to certain members, and then re-times the activity.</description>
     </item>
     
+    <item>
+      <title>A tidyr Tutorial</title>
+      <link>/2016/08/24/a-tidyr-tutorial/</link>
+      <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/08/24/a-tidyr-tutorial/</guid>
+      <description>The tidyr package by Hadley Wickham centers on two functions: gather and spread. If you have struggled to understand what exactly these two functions do, this tutorial is for you.
+To begin we need to wrap our heads around the idea of “key-value pairs”. The help pages for gather and spread use this terminology to explain how they work. Without some intuition for key-value pairs, it can be difficult to truly understand how these functions work.</description>
+    </item>
+    
   </channel>
 </rss>
