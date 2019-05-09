@@ -157,5 +157,15 @@ Using the R statistical computing environment, we can use the choose function to
 To begin we need to wrap our heads around the idea of “key-value pairs”. The help pages for gather and spread use this terminology to explain how they work. Without some intuition for key-value pairs, it can be difficult to truly understand how these functions work.</description>
     </item>
     
+    <item>
+      <title>Getting Started with Factor Analysis</title>
+      <link>/2016/08/01/getting-started-with-factor-analysis/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/08/01/getting-started-with-factor-analysis/</guid>
+      <description>Take a look at the following correlation matrix for Olympic decathlon data calculated from 280 scores from 1960 through 2004 (Johnson and Wichern, p. 499):
+If we focus on the first row, 100m (100 meter dash), we see that it has fairly high correlations with LJ and 400m (long jump and 400 meter dash, 0.64 and 0.55) and somewhat lower correlations with all other events. Scoring high in the 100 meter dash seems to correlate with scoring high in the long jump and 400 meter run but gives no solid indication of performance in the other events.</description>
+    </item>
+    
   </channel>
 </rss>
