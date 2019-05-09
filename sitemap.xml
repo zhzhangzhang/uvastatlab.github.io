@@ -83,6 +83,11 @@
   </url>
   
   <url>
+    <loc>/2016/07/12/an-introduction-to-loglinear-models/</loc>
+    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/binary-logistic-regression/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -132,6 +137,12 @@
   <url>
     <loc>/tags/log-transformations/</loc>
     <lastmod>2018-08-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/loglinear-models/</loc>
+    <lastmod>2016-07-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

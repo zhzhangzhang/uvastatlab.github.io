@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Loglinear Models on StatLab Articles</title>
+    <link>/tags/loglinear-models/</link>
+    <description>Recent content in Loglinear Models on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/loglinear-models/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Introduction to Loglinear Models</title>
+      <link>/2016/07/12/an-introduction-to-loglinear-models/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/07/12/an-introduction-to-loglinear-models/</guid>
+      <description>Loglinear models model cell counts in contingency tables. They’re a little different from other modeling methods in that they don’t distinguish between response and explanatory variables. All variables in a loglinear model are essentially “responses”.
+To learn more about loglinear models, we’ll explore the following data from Agresti (1996, Table 6.3). It summarizes responses from a survey that asked high school seniors in a particular city whether they had ever used alcohol, cigarettes, or marijuana.</description>
+    </item>
+    
+  </channel>
+</rss>

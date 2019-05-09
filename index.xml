@@ -167,5 +167,15 @@ To begin we need to wrap our heads around the idea of “key-value pairs”. The
 If we focus on the first row, 100m (100 meter dash), we see that it has fairly high correlations with LJ and 400m (long jump and 400 meter dash, 0.64 and 0.55) and somewhat lower correlations with all other events. Scoring high in the 100 meter dash seems to correlate with scoring high in the long jump and 400 meter run but gives no solid indication of performance in the other events.</description>
     </item>
     
+    <item>
+      <title>An Introduction to Loglinear Models</title>
+      <link>/2016/07/12/an-introduction-to-loglinear-models/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/07/12/an-introduction-to-loglinear-models/</guid>
+      <description>Loglinear models model cell counts in contingency tables. They’re a little different from other modeling methods in that they don’t distinguish between response and explanatory variables. All variables in a loglinear model are essentially “responses”.
+To learn more about loglinear models, we’ll explore the following data from Agresti (1996, Table 6.3). It summarizes responses from a survey that asked high school seniors in a particular city whether they had ever used alcohol, cigarettes, or marijuana.</description>
+    </item>
+    
   </channel>
 </rss>
