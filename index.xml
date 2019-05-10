@@ -177,5 +177,15 @@ If we focus on the first row, 100m (100 meter dash), we see that it has fairly h
 To learn more about loglinear models, we’ll explore the following data from Agresti (1996, Table 6.3). It summarizes responses from a survey that asked high school seniors in a particular city whether they had ever used alcohol, cigarettes, or marijuana.</description>
     </item>
     
+    <item>
+      <title>Setting up Color Palettes in R</title>
+      <link>/2016/06/10/setting-up-color-palettes-in-r/</link>
+      <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/10/setting-up-color-palettes-in-r/</guid>
+      <description>Plotting with color in R is kind of like painting a room in your house: you have to pick some colors. R has some default colors ready to go, but it’s only natural to want to play around and try some different combinations. In this post we’ll look at some ways you can define new color palettes for plotting in R.
+To begin, let’s use the palette function to see what colors are currently available:</description>
+    </item>
+    
   </channel>
 </rss>

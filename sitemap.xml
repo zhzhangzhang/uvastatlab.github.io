@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>/2016/06/10/setting-up-color-palettes-in-r/</loc>
+    <lastmod>2016-06-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/binary-logistic-regression/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -263,6 +268,12 @@
   <url>
     <loc>/tags/type-s-error/</loc>
     <lastmod>2018-10-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/visualization/</loc>
+    <lastmod>2016-06-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
