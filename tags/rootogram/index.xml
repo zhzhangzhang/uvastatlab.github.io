@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rootogram on StatLab Articles</title>
+    <link>/tags/rootogram/</link>
+    <description>Recent content in Rootogram on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rootogram/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Hurdle Models</title>
+      <link>/2016/06/01/getting-started-with-hurdle-models/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/06/01/getting-started-with-hurdle-models/</guid>
+      <description>Hurdle Models are a class of models for count data that help handle excess zeros and overdispersion. To motivate their use, let’s look at some data in R.
+The following data come with the AER package. It is a sample of 4,406 individuals, aged 66 and over, who were covered by Medicare in 1988. One of the variables the data provide is number of physician office visits. Let’s say we wish to model the number of vists (a count) by some of the other variables in the data set.</description>
+    </item>
+    
+  </channel>
+</rss>
