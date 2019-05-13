@@ -98,6 +98,11 @@
   </url>
   
   <url>
+    <loc>/2016/05/05/getting-started-with-negative-binomial-regression-modeling/</loc>
+    <lastmod>2016-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/binary-logistic-regression/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -205,8 +210,20 @@
   </url>
   
   <url>
+    <loc>/tags/negative-binomial-regression/</loc>
+    <lastmod>2016-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/pairwise-comparisons/</loc>
     <lastmod>2016-10-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/poisson-regression/</loc>
+    <lastmod>2016-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
