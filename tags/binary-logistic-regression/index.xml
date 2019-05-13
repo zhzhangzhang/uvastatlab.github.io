@@ -20,5 +20,14 @@
       <description>Logistic regression is a method for modeling binary data as a function of other variables. For example we might want to model the occurrence or non-occurrence of a disease given predictors such as age, race, weight, etc. The result is a model that returns a predicted probability of occurrence (or non-occurrence, depending on how we set up our data) given certain values of our predictors. We might also be able to interpret the coefficients in our model to summarize how a change in one predictor affects the odds of occurrence.</description>
     </item>
     
+    <item>
+      <title>Visualizing the Effects of Logistic Regression</title>
+      <link>/2016/04/22/visualizing-the-effects-of-logistic-regression/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/04/22/visualizing-the-effects-of-logistic-regression/</guid>
+      <description>Logistic regression is a popular and effective way of modeling a binary response. For example, we might wonder what influences a person to volunteer, or not volunteer, for psychological research. Some do, some don’t. Are there independent variables that would help explain or distinguish between those who volunteer and those who don’t? Logistic regression gives us a mathematical model that we can we use to estimate the probability of someone volunteering given certain independent variables.</description>
+    </item>
+    
   </channel>
 </rss>

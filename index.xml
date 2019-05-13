@@ -206,5 +206,14 @@ The following data come with the AER package. It is a sample of 4,406 individual
       <description>When it comes to modeling counts (ie, whole numbers greater than or equal to 0), we often start with Poisson regression. This is a generalized linear model where a response is assumed to have a Poisson distribution conditional on a weighted sum of predictors. For example, we might model the number of documented concussions to NFL quarterbacks as a function of snaps played and the total years experience of his offensive line.</description>
     </item>
     
+    <item>
+      <title>Visualizing the Effects of Logistic Regression</title>
+      <link>/2016/04/22/visualizing-the-effects-of-logistic-regression/</link>
+      <pubDate>Fri, 22 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/04/22/visualizing-the-effects-of-logistic-regression/</guid>
+      <description>Logistic regression is a popular and effective way of modeling a binary response. For example, we might wonder what influences a person to volunteer, or not volunteer, for psychological research. Some do, some don’t. Are there independent variables that would help explain or distinguish between those who volunteer and those who don’t? Logistic regression gives us a mathematical model that we can we use to estimate the probability of someone volunteering given certain independent variables.</description>
+    </item>
+    
   </channel>
 </rss>
