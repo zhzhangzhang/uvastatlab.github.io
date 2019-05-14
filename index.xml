@@ -6,10 +6,19 @@
     <description>Recent content on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reading PDF files into R for text mining</title>
+      <link>/2019/05/14/reading-pdf-files-into-r-for-text-mining/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/14/reading-pdf-files-into-r-for-text-mining/</guid>
+      <description>Let’s say we’re interested in text mining the opinions of The Supreme Court of the United States from the 2014 term. The opinions are published as PDF files at the following web page http://www.supremecourt.gov/opinions/slipopinion/14. We would probably want to look at all 76 opinions, but for the purposes of this introductory tutorial we’ll just look at the last three of the term: (1) Glossip v. Gross, (2) State Legislature v.</description>
+    </item>
     
     <item>
       <title>Simulating a Logistic Regression Model</title>
