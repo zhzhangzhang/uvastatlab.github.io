@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactions on StatLab Articles</title>
+    <link>/tags/interactions/</link>
+    <description>Recent content in Interactions on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Mar 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/interactions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Understanding 2-way Interactions</title>
+      <link>/2016/03/25/understanding-2-way-interactions/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/03/25/understanding-2-way-interactions/</guid>
+      <description>When doing linear modeling or ANOVA it’s useful to examine whether or not the effect of one variable depends on the level of one or more variables. If it does then we have what is called an “interaction”. This means variables combine or interact to affect the response. The simplest type of interaction is the interaction between two two-level categorical variables. Let’s say we have gender (male and female), treatment (yes or no), and a continuous response measure.</description>
+    </item>
+    
+  </channel>
+</rss>

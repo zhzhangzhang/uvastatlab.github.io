@@ -224,5 +224,14 @@ The following data come with the AER package. It is a sample of 4,406 individual
       <description>Logistic regression is a popular and effective way of modeling a binary response. For example, we might wonder what influences a person to volunteer, or not volunteer, for psychological research. Some do, some don’t. Are there independent variables that would help explain or distinguish between those who volunteer and those who don’t? Logistic regression gives us a mathematical model that we can we use to estimate the probability of someone volunteering given certain independent variables.</description>
     </item>
     
+    <item>
+      <title>Understanding 2-way Interactions</title>
+      <link>/2016/03/25/understanding-2-way-interactions/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/03/25/understanding-2-way-interactions/</guid>
+      <description>When doing linear modeling or ANOVA it’s useful to examine whether or not the effect of one variable depends on the level of one or more variables. If it does then we have what is called an “interaction”. This means variables combine or interact to affect the response. The simplest type of interaction is the interaction between two two-level categorical variables. Let’s say we have gender (male and female), treatment (yes or no), and a continuous response measure.</description>
+    </item>
+    
   </channel>
 </rss>
