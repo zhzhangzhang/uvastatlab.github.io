@@ -233,5 +233,14 @@ The following data come with the AER package. It is a sample of 4,406 individual
       <description>When doing linear modeling or ANOVA it’s useful to examine whether or not the effect of one variable depends on the level of one or more variables. If it does then we have what is called an “interaction”. This means variables combine or interact to affect the response. The simplest type of interaction is the interaction between two two-level categorical variables. Let’s say we have gender (male and female), treatment (yes or no), and a continuous response measure.</description>
     </item>
     
+    <item>
+      <title>Comparing Proportions with Relative Risk and Odds Ratios</title>
+      <link>/2016/01/08/comparing-proportions-with-relative-risk-and-odds-ratios/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/01/08/comparing-proportions-with-relative-risk-and-odds-ratios/</guid>
+      <description>The classic two-by-two table displays counts of what may be called “successes” and “failures” versus some two-level grouping variable, such as gender (male and female) or treatment (placebo and active drug). An example of one such table is given in the book An Introduction to Categorical Data Analysis (Agresti, 1996, p. 20). The table classifies Myocardial Infarction (yes/no) with Group (Placebo/Aspirin). The data were “taken from a report on the relationship between aspirin use and myocardial infarction (heart attacks) by the Physicians’ Health Study Research Group at Harvard Medical School.</description>
+    </item>
+    
   </channel>
 </rss>

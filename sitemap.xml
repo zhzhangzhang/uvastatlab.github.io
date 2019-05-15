@@ -118,6 +118,11 @@
   </url>
   
   <url>
+    <loc>/2016/01/08/comparing-proportions-with-relative-risk-and-odds-ratios/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/binary-logistic-regression/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -237,6 +242,12 @@
   </url>
   
   <url>
+    <loc>/tags/odds-ratio/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/tags/pairwise-comparisons/</loc>
     <lastmod>2016-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -275,6 +286,12 @@
   <url>
     <loc>/categories/r/</loc>
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/relative-risk/</loc>
+    <lastmod>2016-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

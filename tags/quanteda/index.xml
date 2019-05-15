@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quanteda on StatLab Articles</title>
+    <link>/tags/quanteda/</link>
+    <description>Recent content in Quanteda on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/quanteda/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis of Ours to Shape Comments, Part 1</title>
+      <link>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</guid>
+      <description>Introduction&amp;lt;As part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
+    </item>
+    
+  </channel>
+</rss>
