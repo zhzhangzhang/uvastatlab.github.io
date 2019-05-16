@@ -20,5 +20,15 @@
       <description>The classic two-by-two table displays counts of what may be called “successes” and “failures” versus some two-level grouping variable, such as gender (male and female) or treatment (placebo and active drug). An example of one such table is given in the book An Introduction to Categorical Data Analysis (Agresti, 1996, p. 20). The table classifies Myocardial Infarction (yes/no) with Group (Placebo/Aspirin). The data were “taken from a report on the relationship between aspirin use and myocardial infarction (heart attacks) by the Physicians’ Health Study Research Group at Harvard Medical School.</description>
     </item>
     
+    <item>
+      <title>Fitting and Interpreting a Proportional Odds Model</title>
+      <link>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</guid>
+      <description>Take a look at the following table. It is a cross tabulation of data taken from the 1991 General Social Survey that relates political party affiliation to political ideology. (Agresti, An Introduction to Categorical Data Analysis, 1996)
+td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ordinal Logistic Regression on StatLab Articles</title>
+    <link>/tags/ordinal-logistic-regression/</link>
+    <description>Recent content in Ordinal Logistic Regression on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/ordinal-logistic-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fitting and Interpreting a Proportional Odds Model</title>
+      <link>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</guid>
+      <description>Take a look at the following table. It is a cross tabulation of data taken from the 1991 General Social Survey that relates political party affiliation to political ideology. (Agresti, An Introduction to Categorical Data Analysis, 1996)
+td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
+    </item>
+    
+  </channel>
+</rss>

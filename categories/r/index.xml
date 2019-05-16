@@ -243,5 +243,15 @@ The following data come with the AER package. It is a sample of 4,406 individual
 It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mellon University. Shalizi provides free and open access to his class lecture materials so we can see what exactly he was “ranting” about.</description>
     </item>
     
+    <item>
+      <title>Fitting and Interpreting a Proportional Odds Model</title>
+      <link>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</guid>
+      <description>Take a look at the following table. It is a cross tabulation of data taken from the 1991 General Social Survey that relates political party affiliation to political ideology. (Agresti, An Introduction to Categorical Data Analysis, 1996)
+td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
+    </item>
+    
   </channel>
 </rss>
