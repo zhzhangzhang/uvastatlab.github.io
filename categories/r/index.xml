@@ -233,5 +233,15 @@ The following data come with the AER package. It is a sample of 4,406 individual
       <description>The classic two-by-two table displays counts of what may be called “successes” and “failures” versus some two-level grouping variable, such as gender (male and female) or treatment (placebo and active drug). An example of one such table is given in the book An Introduction to Categorical Data Analysis (Agresti, 1996, p. 20). The table classifies Myocardial Infarction (yes/no) with Group (Placebo/Aspirin). The data were “taken from a report on the relationship between aspirin use and myocardial infarction (heart attacks) by the Physicians’ Health Study Research Group at Harvard Medical School.</description>
     </item>
     
+    <item>
+      <title>Is R-squared Useless?</title>
+      <link>/2015/10/17/is-r-squared-useless/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/17/is-r-squared-useless/</guid>
+      <description>On Thursday, October 16, 2015, a disbelieving student posted on Reddit My stats professor just went on a rant about how R-squared values are essentially useless, is there any truth to this? It attracted a fair amount of attention, at least compared to other posts about statistics on Reddit.
+It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mellon University. Shalizi provides free and open access to his class lecture materials so we can see what exactly he was “ranting” about.</description>
+    </item>
+    
   </channel>
 </rss>

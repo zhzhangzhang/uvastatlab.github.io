@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Squared on StatLab Articles</title>
+    <link>/tags/r-squared/</link>
+    <description>Recent content in R Squared on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/r-squared/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is R-squared Useless?</title>
+      <link>/2015/10/17/is-r-squared-useless/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/17/is-r-squared-useless/</guid>
+      <description>On Thursday, October 16, 2015, a disbelieving student posted on Reddit My stats professor just went on a rant about how R-squared values are essentially useless, is there any truth to this? It attracted a fair amount of attention, at least compared to other posts about statistics on Reddit.
+It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mellon University. Shalizi provides free and open access to his class lecture materials so we can see what exactly he was “ranting” about.</description>
+    </item>
+    
+  </channel>
+</rss>

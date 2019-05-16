@@ -123,6 +123,11 @@
   </url>
   
   <url>
+    <loc>/2015/10/17/is-r-squared-useless/</loc>
+    <lastmod>2015-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/binary-logistic-regression/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -286,6 +291,12 @@
   <url>
     <loc>/categories/r/</loc>
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r-squared/</loc>
+    <lastmod>2015-10-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -20,5 +20,15 @@
       <description>Logistic regression is a method for modeling binary data as a function of other variables. For example we might want to model the occurrence or non-occurrence of a disease given predictors such as age, race, weight, etc. The result is a model that returns a predicted probability of occurrence (or non-occurrence, depending on how we set up our data) given certain values of our predictors. We might also be able to interpret the coefficients in our model to summarize how a change in one predictor affects the odds of occurrence.</description>
     </item>
     
+    <item>
+      <title>Is R-squared Useless?</title>
+      <link>/2015/10/17/is-r-squared-useless/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/10/17/is-r-squared-useless/</guid>
+      <description>On Thursday, October 16, 2015, a disbelieving student posted on Reddit My stats professor just went on a rant about how R-squared values are essentially useless, is there any truth to this? It attracted a fair amount of attention, at least compared to other posts about statistics on Reddit.
+It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mellon University. Shalizi provides free and open access to his class lecture materials so we can see what exactly he was “ranting” about.</description>
+    </item>
+    
   </channel>
 </rss>
