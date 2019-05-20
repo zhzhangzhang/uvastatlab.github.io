@@ -36,7 +36,7 @@
       
       <guid>/2019/05/03/an-introduction-to-analyzing-twitter-data-with-r/</guid>
       <description>In this article, I will walk you through why a researcher or professional might find data from Twitter useful, explain how to collect the relevant tweets and information from Twitter in R, and then finish by demonstrating a few useful analyses (along with accompanying cleaning) you might perform on your Twitter data.
-Part One: Why Twitter Data?To begin, we should ask: why would someone be interested in using data from Twitter?</description>
+Part One: Why Twitter Data? To begin, we should ask: why would someone be interested in using data from Twitter?</description>
     </item>
     
     <item>
@@ -58,6 +58,15 @@ Part One: Why Twitter Data?To begin, we should ask: why would someone be intere
     </item>
     
     <item>
+      <title>Analysis of Ours to Shape Comments, Part 1</title>
+      <link>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</link>
+      <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</guid>
+      <description>Introduction As part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan has hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
+    </item>
+    
+    <item>
       <title>Assessing Type S and Type M Errors</title>
       <link>/2018/10/31/assessing-type-s-and-type-m-errors/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
@@ -73,7 +82,7 @@ Part One: Why Twitter Data?To begin, we should ask: why would someone be intere
       
       <guid>/2018/08/17/interpreting-log-transformations-in-a-linear-model/</guid>
       <description>Log transformations are often recommended for skewed data, such as monetary measures or certain biological and demographic measures. Log transforming data usually has the effect of spreading out clumps of data and bringing together spread-out data. For example, below is a histogram of the areas of all 50 US states. It is skewed to the right due to Alaska, California, Texas and a few others.
-hist(state.area)After a log transformation, notice the histogram is more or less symmetric.</description>
+hist(state.area) After a log transformation, notice the histogram is more or less symmetric.</description>
     </item>
     
     <item>
@@ -259,7 +268,7 @@ It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mello
       
       <guid>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</guid>
       <description>Take a look at the following table. It is a cross tabulation of data taken from the 1991 General Social Survey that relates political party affiliation to political ideology. (Agresti, An Introduction to Categorical Data Analysis, 1996)
-td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
+td { padding:0 15px 0 15px; text-align: center; } caption { font-size: 70% }   Political Ideology by Party Affiliation, from the 1991 General Social Survey       Very Liberal</description>
     </item>
     
   </channel>
