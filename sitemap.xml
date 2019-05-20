@@ -138,6 +138,11 @@
   </url>
   
   <url>
+    <loc>/2015/09/10/simulating-endogeneity/</loc>
+    <lastmod>2015-09-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/binary-logistic-regression/</loc>
     <lastmod>2019-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -175,6 +180,12 @@
   <url>
     <loc>/tags/effect-plots/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/endogeneity/</loc>
+    <lastmod>2015-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -367,6 +378,12 @@
   <url>
     <loc>/tags/twitter/</loc>
     <lastmod>2019-05-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/two-stage-least-squares/</loc>
+    <lastmod>2015-09-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

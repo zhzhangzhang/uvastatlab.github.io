@@ -30,5 +30,17 @@
 It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mellon University. Shalizi provides free and open access to his class lecture materials so we can see what exactly he was “ranting” about.</description>
     </item>
     
+    <item>
+      <title>Simulating Endogeneity</title>
+      <link>/2015/09/10/simulating-endogeneity/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/10/simulating-endogeneity/</guid>
+      <description>First off, what is endogeneity, and why would we want to simulate it?
+Endogeneity occurs when a statistical model has an independent variable that is correlated with the error term. The reason we would want to simulate it is to understand what exactly that definition means!
+Let’s first simulate ideal data for simple linear regression using R.
+# independent variablex &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x)set.</description>
+    </item>
+    
   </channel>
 </rss>
