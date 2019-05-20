@@ -283,5 +283,14 @@ Let’s first simulate ideal data for simple linear regression using R.
 # independent variablex &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x)set.</description>
     </item>
     
+    <item>
+      <title>Understanding Q-Q Plots</title>
+      <link>/2015/08/26/understanding-q-q-plots/</link>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/08/26/understanding-q-q-plots/</guid>
+      <description>The Q-Q plot, or quantile-quantile plot, is a graphical tool to help us assess if a set of data plausibly came from some theoretical distribution such as a Normal or exponential. For example, if we run a statistical analysis that assumes our dependent variable is Normally distributed, we can use a Normal Q-Q plot to check that assumption. It’s just a visual check, not an air-tight proof, so it is somewhat subjective.</description>
+    </item>
+    
   </channel>
 </rss>
