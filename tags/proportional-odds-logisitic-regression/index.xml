@@ -28,7 +28,7 @@ To begin, we load the effects package.</description>
       
       <guid>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</guid>
       <description>Take a look at the following table. It is a cross tabulation of data taken from the 1991 General Social Survey that relates political party affiliation to political ideology. (Agresti, An Introduction to Categorical Data Analysis, 1996)
-td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
+td { padding:0 15px 0 15px; text-align: center; } caption { font-size: 70% }   Political Ideology by Party Affiliation, from the 1991 General Social Survey       Very Liberal</description>
     </item>
     
   </channel>
