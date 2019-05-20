@@ -262,5 +262,14 @@ It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mello
 td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
     </item>
     
+    <item>
+      <title>Getting Started with Quantile Regression</title>
+      <link>/2015/09/20/getting-started-with-quantile-regression/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/20/getting-started-with-quantile-regression/</guid>
+      <description>When we think of regression we usually think of linear regression, the tried and true method for estimating a mean of some variable conditional on the levels or values of independent variables. In other words, we’re pretty sure the mean of our variable of interest differs depending on other variables. For example the mean weight of 1st year UVa males is some unknown value. But we could in theory take a random sample and discover there is a relationship between weight and height.</description>
+    </item>
+    
   </channel>
 </rss>

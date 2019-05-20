@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantile Regression on StatLab Articles</title>
+    <link>/tags/quantile-regression/</link>
+    <description>Recent content in Quantile Regression on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/quantile-regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Quantile Regression</title>
+      <link>/2015/09/20/getting-started-with-quantile-regression/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/20/getting-started-with-quantile-regression/</guid>
+      <description>When we think of regression we usually think of linear regression, the tried and true method for estimating a mean of some variable conditional on the levels or values of independent variables. In other words, we’re pretty sure the mean of our variable of interest differs depending on other variables. For example the mean weight of 1st year UVa males is some unknown value. But we could in theory take a random sample and discover there is a relationship between weight and height.</description>
+    </item>
+    
+  </channel>
+</rss>
