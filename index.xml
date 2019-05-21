@@ -58,6 +58,16 @@ Part One: Why Twitter Data? To begin, we should ask: why would someone be intere
     </item>
     
     <item>
+      <title>Analysis of Ours to Shape Comments, Part 2</title>
+      <link>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</guid>
+      <description>Introduction In the last post, we began exploring the Ours to Shape comments – the distribution across categories and contributors, the length and readability of the comments, and a few key words in context. While I did more exploration of the data than reported, the first post gives a taste of the kind of dive into the data that usefully proceeds analysis.
+In this post, we’ll start digging into word frequencies, relative frequencies by groups, and distinguishing words.</description>
+    </item>
+    
+    <item>
       <title>Analysis of Ours to Shape Comments, Part 1</title>
       <link>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</link>
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
@@ -289,7 +299,7 @@ td { padding:0 15px 0 15px; text-align: center; } caption { font-size: 70% }   P
       <description>First off, what is endogeneity, and why would we want to simulate it?
 Endogeneity occurs when a statistical model has an independent variable that is correlated with the error term. The reason we would want to simulate it is to understand what exactly that definition means!
 Let’s first simulate ideal data for simple linear regression using R.
-# independent variablex &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x)set.</description>
+# independent variable x &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x) set.</description>
     </item>
     
     <item>

@@ -6,10 +6,20 @@
     <description>Recent content in Text Analysis on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/text-analysis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis of Ours to Shape Comments, Part 2</title>
+      <link>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</link>
+      <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</guid>
+      <description>Introduction In the last post, we began exploring the Ours to Shape comments – the distribution across categories and contributors, the length and readability of the comments, and a few key words in context. While I did more exploration of the data than reported, the first post gives a taste of the kind of dive into the data that usefully proceeds analysis.
+In this post, we’ll start digging into word frequencies, relative frequencies by groups, and distinguishing words.</description>
+    </item>
     
     <item>
       <title>Analysis of Ours to Shape Comments, Part 1</title>
