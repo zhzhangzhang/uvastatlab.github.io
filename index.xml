@@ -58,6 +58,16 @@ Part One: Why Twitter Data? To begin, we should ask: why would someone be intere
     </item>
     
     <item>
+      <title>Analysis of Ours to Shape Comments, Part 3</title>
+      <link>/2018/12/18/analysis-of-ours-to-shape-comments-part-3/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/18/analysis-of-ours-to-shape-comments-part-3/</guid>
+      <description>Introduction To recap, we’re exploring the comments submitted to President Ryan’s Ours to Shape website (as of December 7, 2018).
+In the first post we looked at the distribution of comments across Ryan’s three categories – community, discovery, and service – and across the contributors’ primary connection to the university. We extracted features like length and readability of the comments, and compared these across groups. And we explored the context in which key words of interest (to me) were used.</description>
+    </item>
+    
+    <item>
       <title>Analysis of Ours to Shape Comments, Part 2</title>
       <link>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</link>
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
