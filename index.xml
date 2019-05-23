@@ -58,6 +58,16 @@ Part One: Why Twitter Data? To begin, we should ask: why would someone be intere
     </item>
     
     <item>
+      <title>Analysis of Ours to Shape Comments, Part 4</title>
+      <link>/2018/12/19/analysis-of-ours-to-shape-comments-part-4/</link>
+      <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/19/analysis-of-ours-to-shape-comments-part-4/</guid>
+      <description>Introduction In the fourth installment of this series (we’re almost done, I promise), we’ll look at the sentiment – aka positive/negative tone, polarity, affect – of the comments to President Ryan’s Ours to Shape website.
+We don’t have a pre-labeled set of comments, with negative or positive sentiment already identified, so we can’t use a supervised classification method (and I’m not committed enough to hand code a sample of comments).</description>
+    </item>
+    
+    <item>
       <title>Analysis of Ours to Shape Comments, Part 3</title>
       <link>/2018/12/18/analysis-of-ours-to-shape-comments-part-3/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
