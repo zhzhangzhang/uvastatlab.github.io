@@ -58,6 +58,16 @@ Part One: Why Twitter Data?To begin, we should ask: why would someone be intere
     </item>
     
     <item>
+      <title>Analysis of Ours to Shape Comments, Part 5</title>
+      <link>/2019/01/31/analysis-of-ours-to-shape-comments-part-5/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/01/31/analysis-of-ours-to-shape-comments-part-5/</guid>
+      <description>Introduction In the penultimate post of this series, we’ll use some unsupervised learning approaches to uncover comment clusters and latent themes among the comments to President Ryan’s Ours to Shape website.
+library(quanteda) # main text package library(tidyverse) # for dplyr, stringr, piping, etc. library(RColorBrewer) # better colors in graphs library(scales) # better breaks and labels in graphs library(stm) # structural topic models Let’s start with the document-feature matrix we created from the de-duplicated comments.</description>
+    </item>
+    
+    <item>
       <title>Analysis of Ours to Shape Comments, Part 4</title>
       <link>/2018/12/19/analysis-of-ours-to-shape-comments-part-4/</link>
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
