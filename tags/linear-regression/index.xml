@@ -22,6 +22,16 @@ hist(state.area)After a log transformation, notice the histogram is more or les
     </item>
     
     <item>
+      <title>Hierarchical Linear Regression</title>
+      <link>/2016/05/20/hierarchical-linear-regression/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/05/20/hierarchical-linear-regression/</guid>
+      <description>This post is NOT about Hierarchical Linear Modeling (HLM; multilevel modeling). The hierarchical regression is model comparison of nested regression models.
+When do I want to perform hierarchical regression analysis?Hierarchical regression is a way to show if variables of your interest explain a statistically significant amount of variance in your Dependent Variable (DV) after accounting for all other variables. This is a framework for model comparison rather than a statistical method.</description>
+    </item>
+    
+    <item>
       <title>Understanding 2-way Interactions</title>
       <link>/2016/03/25/understanding-2-way-interactions/</link>
       <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
