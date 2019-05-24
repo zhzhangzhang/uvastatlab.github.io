@@ -36,7 +36,7 @@
       
       <guid>/2019/05/03/an-introduction-to-analyzing-twitter-data-with-r/</guid>
       <description>In this article, I will walk you through why a researcher or professional might find data from Twitter useful, explain how to collect the relevant tweets and information from Twitter in R, and then finish by demonstrating a few useful analyses (along with accompanying cleaning) you might perform on your Twitter data.
-Part One: Why Twitter Data? To begin, we should ask: why would someone be interested in using data from Twitter?</description>
+Part One: Why Twitter Data?To begin, we should ask: why would someone be interested in using data from Twitter?</description>
     </item>
     
     <item>
@@ -63,7 +63,7 @@ Part One: Why Twitter Data? To begin, we should ask: why would someone be intere
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/19/analysis-of-ours-to-shape-comments-part-4/</guid>
-      <description>Introduction In the fourth installment of this series (we’re almost done, I promise), we’ll look at the sentiment – aka positive/negative tone, polarity, affect – of the comments to President Ryan’s Ours to Shape website.
+      <description>IntroductionIn the fourth installment of this series (we’re almost done, I promise), we’ll look at the sentiment – aka positive/negative tone, polarity, affect – of the comments to President Ryan’s Ours to Shape website.
 We don’t have a pre-labeled set of comments, with negative or positive sentiment already identified, so we can’t use a supervised classification method (and I’m not committed enough to hand code a sample of comments).</description>
     </item>
     
@@ -73,7 +73,7 @@ We don’t have a pre-labeled set of comments, with negative or positive sentime
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/18/analysis-of-ours-to-shape-comments-part-3/</guid>
-      <description>Introduction To recap, we’re exploring the comments submitted to President Ryan’s Ours to Shape website (as of December 7, 2018).
+      <description>IntroductionTo recap, we’re exploring the comments submitted to President Ryan’s Ours to Shape website (as of December 7, 2018).
 In the first post we looked at the distribution of comments across Ryan’s three categories – community, discovery, and service – and across the contributors’ primary connection to the university. We extracted features like length and readability of the comments, and compared these across groups. And we explored the context in which key words of interest (to me) were used.</description>
     </item>
     
@@ -83,7 +83,7 @@ In the first post we looked at the distribution of comments across Ryan’s thre
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</guid>
-      <description>Introduction In the last post, we began exploring the Ours to Shape comments – the distribution across categories and contributors, the length and readability of the comments, and a few key words in context. While I did more exploration of the data than reported, the first post gives a taste of the kind of dive into the data that usefully proceeds analysis.
+      <description>IntroductionIn the last post, we began exploring the Ours to Shape comments – the distribution across categories and contributors, the length and readability of the comments, and a few key words in context. While I did more exploration of the data than reported, the first post gives a taste of the kind of dive into the data that usefully proceeds analysis.
 In this post, we’ll start digging into word frequencies, relative frequencies by groups, and distinguishing words.</description>
     </item>
     
@@ -93,7 +93,7 @@ In this post, we’ll start digging into word frequencies, relative frequencies 
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</guid>
-      <description>Introduction As part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan has hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
+      <description>IntroductionAs part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan has hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
     </item>
     
     <item>
@@ -112,7 +112,7 @@ In this post, we’ll start digging into word frequencies, relative frequencies 
       
       <guid>/2018/08/17/interpreting-log-transformations-in-a-linear-model/</guid>
       <description>Log transformations are often recommended for skewed data, such as monetary measures or certain biological and demographic measures. Log transforming data usually has the effect of spreading out clumps of data and bringing together spread-out data. For example, below is a histogram of the areas of all 50 US states. It is skewed to the right due to Alaska, California, Texas and a few others.
-hist(state.area) After a log transformation, notice the histogram is more or less symmetric.</description>
+hist(state.area)After a log transformation, notice the histogram is more or less symmetric.</description>
     </item>
     
     <item>
@@ -282,6 +282,16 @@ The following data come with the AER package. It is a sample of 4,406 individual
     </item>
     
     <item>
+      <title>Using and Interpreting Cronbach’s Alpha</title>
+      <link>/2015/11/16/using-and-interpreting-cronbach-s-alpha/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/11/16/using-and-interpreting-cronbach-s-alpha/</guid>
+      <description>I. What is Cronbach’s alpha?Cronbach’s alpha is a measure used to assess the reliability, or internal consistency, of a set of scale or test items. In other words, the reliability of any given measurement refers to the extent to which it is a consistent measure of a concept, and Cronbach’s alpha is one way of measuring the strength of that consistency.
+Cronbach’s alpha is computed by correlating the score for each scale item with the total score for each observation (usually individual survey respondents or test takers), and then comparing that to the variance for all individual item scores:</description>
+    </item>
+    
+    <item>
       <title>Is R-squared Useless?</title>
       <link>/2015/10/17/is-r-squared-useless/</link>
       <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
@@ -298,7 +308,7 @@ It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mello
       
       <guid>/2015/10/05/fitting-and-interpreting-a-proportional-odds-model/</guid>
       <description>Take a look at the following table. It is a cross tabulation of data taken from the 1991 General Social Survey that relates political party affiliation to political ideology. (Agresti, An Introduction to Categorical Data Analysis, 1996)
-td { padding:0 15px 0 15px; text-align: center; } caption { font-size: 70% }   Political Ideology by Party Affiliation, from the 1991 General Social Survey       Very Liberal</description>
+td{padding:0 15px 0 15px;text-align: center;}caption{font-size: 70%}Political Ideology by Party Affiliation, from the 1991 General Social SurveyVery Liberal</description>
     </item>
     
     <item>
@@ -319,7 +329,7 @@ td { padding:0 15px 0 15px; text-align: center; } caption { font-size: 70% }   P
       <description>First off, what is endogeneity, and why would we want to simulate it?
 Endogeneity occurs when a statistical model has an independent variable that is correlated with the error term. The reason we would want to simulate it is to understand what exactly that definition means!
 Let’s first simulate ideal data for simple linear regression using R.
-# independent variable x &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x) set.</description>
+# independent variablex &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x)set.</description>
     </item>
     
     <item>

@@ -18,7 +18,7 @@
       
       <guid>/2018/08/17/interpreting-log-transformations-in-a-linear-model/</guid>
       <description>Log transformations are often recommended for skewed data, such as monetary measures or certain biological and demographic measures. Log transforming data usually has the effect of spreading out clumps of data and bringing together spread-out data. For example, below is a histogram of the areas of all 50 US states. It is skewed to the right due to Alaska, California, Texas and a few others.
-hist(state.area) After a log transformation, notice the histogram is more or less symmetric.</description>
+hist(state.area)After a log transformation, notice the histogram is more or less symmetric.</description>
     </item>
     
     <item>

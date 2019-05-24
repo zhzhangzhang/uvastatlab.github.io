@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scale Reliability on StatLab Articles</title>
+    <link>/tags/scale-reliability/</link>
+    <description>Recent content in Scale Reliability on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Nov 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/scale-reliability/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using and Interpreting Cronbach’s Alpha</title>
+      <link>/2015/11/16/using-and-interpreting-cronbach-s-alpha/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/11/16/using-and-interpreting-cronbach-s-alpha/</guid>
+      <description>I. What is Cronbach’s alpha?Cronbach’s alpha is a measure used to assess the reliability, or internal consistency, of a set of scale or test items. In other words, the reliability of any given measurement refers to the extent to which it is a consistent measure of a concept, and Cronbach’s alpha is one way of measuring the strength of that consistency.
+Cronbach’s alpha is computed by correlating the score for each scale item with the total score for each observation (usually individual survey respondents or test takers), and then comparing that to the variance for all individual item scores:</description>
+    </item>
+    
+  </channel>
+</rss>

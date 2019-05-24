@@ -39,7 +39,7 @@ It turns out the student’s stats professor was Cosma Shalizi of Carnegie Mello
       <description>First off, what is endogeneity, and why would we want to simulate it?
 Endogeneity occurs when a statistical model has an independent variable that is correlated with the error term. The reason we would want to simulate it is to understand what exactly that definition means!
 Let’s first simulate ideal data for simple linear regression using R.
-# independent variable x &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x) set.</description>
+# independent variablex &amp;lt;- seq(1,5,length.out = 100) # error (uncorrelated with x)set.</description>
     </item>
     
   </channel>

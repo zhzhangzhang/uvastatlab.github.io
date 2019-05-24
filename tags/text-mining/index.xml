@@ -27,7 +27,7 @@
       
       <guid>/2019/05/03/an-introduction-to-analyzing-twitter-data-with-r/</guid>
       <description>In this article, I will walk you through why a researcher or professional might find data from Twitter useful, explain how to collect the relevant tweets and information from Twitter in R, and then finish by demonstrating a few useful analyses (along with accompanying cleaning) you might perform on your Twitter data.
-Part One: Why Twitter Data? To begin, we should ask: why would someone be interested in using data from Twitter?</description>
+Part One: Why Twitter Data?To begin, we should ask: why would someone be interested in using data from Twitter?</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ Part One: Why Twitter Data? To begin, we should ask: why would someone be intere
       <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/19/analysis-of-ours-to-shape-comments-part-4/</guid>
-      <description>Introduction In the fourth installment of this series (we’re almost done, I promise), we’ll look at the sentiment – aka positive/negative tone, polarity, affect – of the comments to President Ryan’s Ours to Shape website.
+      <description>IntroductionIn the fourth installment of this series (we’re almost done, I promise), we’ll look at the sentiment – aka positive/negative tone, polarity, affect – of the comments to President Ryan’s Ours to Shape website.
 We don’t have a pre-labeled set of comments, with negative or positive sentiment already identified, so we can’t use a supervised classification method (and I’m not committed enough to hand code a sample of comments).</description>
     </item>
     
@@ -46,7 +46,7 @@ We don’t have a pre-labeled set of comments, with negative or positive sentime
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/18/analysis-of-ours-to-shape-comments-part-3/</guid>
-      <description>Introduction To recap, we’re exploring the comments submitted to President Ryan’s Ours to Shape website (as of December 7, 2018).
+      <description>IntroductionTo recap, we’re exploring the comments submitted to President Ryan’s Ours to Shape website (as of December 7, 2018).
 In the first post we looked at the distribution of comments across Ryan’s three categories – community, discovery, and service – and across the contributors’ primary connection to the university. We extracted features like length and readability of the comments, and compared these across groups. And we explored the context in which key words of interest (to me) were used.</description>
     </item>
     
@@ -56,7 +56,7 @@ In the first post we looked at the distribution of comments across Ryan’s thre
       <pubDate>Fri, 14 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/14/analysis-of-ours-to-shape-comments-part-2/</guid>
-      <description>Introduction In the last post, we began exploring the Ours to Shape comments – the distribution across categories and contributors, the length and readability of the comments, and a few key words in context. While I did more exploration of the data than reported, the first post gives a taste of the kind of dive into the data that usefully proceeds analysis.
+      <description>IntroductionIn the last post, we began exploring the Ours to Shape comments – the distribution across categories and contributors, the length and readability of the comments, and a few key words in context. While I did more exploration of the data than reported, the first post gives a taste of the kind of dive into the data that usefully proceeds analysis.
 In this post, we’ll start digging into word frequencies, relative frequencies by groups, and distinguishing words.</description>
     </item>
     
@@ -66,7 +66,7 @@ In this post, we’ll start digging into word frequencies, relative frequencies 
       <pubDate>Thu, 13 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</guid>
-      <description>Introduction As part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan has hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
+      <description>IntroductionAs part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan has hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
     </item>
     
   </channel>
