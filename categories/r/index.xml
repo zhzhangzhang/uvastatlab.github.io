@@ -54,8 +54,8 @@ Part One: Why Twitter Data?To begin, we should ask: why would someone be intere
       <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>/2019/01/31/analysis-of-ours-to-shape-comments-part-5/</guid>
-      <description>Introduction In the penultimate post of this series, we’ll use some unsupervised learning approaches to uncover comment clusters and latent themes among the comments to President Ryan’s Ours to Shape website.
-library(quanteda) # main text package library(tidyverse) # for dplyr, stringr, piping, etc. library(RColorBrewer) # better colors in graphs library(scales) # better breaks and labels in graphs library(stm) # structural topic models Let’s start with the document-feature matrix we created from the de-duplicated comments.</description>
+      <description>IntroductionIn the penultimate post of this series, we’ll use some unsupervised learning approaches to uncover comment clusters and latent themes among the comments to President Ryan’s Ours to Shape website.
+library(quanteda) # main text packagelibrary(tidyverse) # for dplyr, stringr, piping, etc.library(RColorBrewer) # better colors in graphslibrary(scales) # better breaks and labels in graphslibrary(stm) # structural topic modelsLet’s start with the document-feature matrix we created from the de-duplicated comments.</description>
     </item>
     
     <item>
@@ -272,6 +272,16 @@ When do I want to perform hierarchical regression analysis?Hierarchical regress
       
       <guid>/2016/04/22/visualizing-the-effects-of-logistic-regression/</guid>
       <description>Logistic regression is a popular and effective way of modeling a binary response. For example, we might wonder what influences a person to volunteer, or not volunteer, for psychological research. Some do, some don’t. Are there independent variables that would help explain or distinguish between those who volunteer and those who don’t? Logistic regression gives us a mathematical model that we can we use to estimate the probability of someone volunteering given certain independent variables.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Mediation Analysis</title>
+      <link>/2016/04/18/introduction-to-mediation-analysis/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/04/18/introduction-to-mediation-analysis/</guid>
+      <description>What is mediation?Let’s say previous studies have suggested that higher grades predict higher happiness: X (grades) \(\rightarrow\) Y (happiness). (This research example is made up for illustration purposes. Please don’t consider it a scientific statement.)
+I think, however, grades are not the real reason that happiness increases. I hypothesize that good grades boost one’s self-esteem and then high self-esteem boosts one’s happiness: X (grades) \(\rightarrow\) M (self-esteem) \(\rightarrow\) Y (happiness).</description>
     </item>
     
     <item>

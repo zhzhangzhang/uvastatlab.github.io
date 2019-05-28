@@ -21,5 +21,15 @@
 The basic idea is that a mediator may depend on another variable called a “moderator”. For example, in our mediation analysis post we hypothesized that self-esteem was a mediator of student grades on the effect of student happiness. We illustrate this below with a path diagram.</description>
     </item>
     
+    <item>
+      <title>Introduction to Mediation Analysis</title>
+      <link>/2016/04/18/introduction-to-mediation-analysis/</link>
+      <pubDate>Mon, 18 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/04/18/introduction-to-mediation-analysis/</guid>
+      <description>What is mediation?Let’s say previous studies have suggested that higher grades predict higher happiness: X (grades) \(\rightarrow\) Y (happiness). (This research example is made up for illustration purposes. Please don’t consider it a scientific statement.)
+I think, however, grades are not the real reason that happiness increases. I hypothesize that good grades boost one’s self-esteem and then high self-esteem boosts one’s happiness: X (grades) \(\rightarrow\) M (self-esteem) \(\rightarrow\) Y (happiness).</description>
+    </item>
+    
   </channel>
 </rss>
