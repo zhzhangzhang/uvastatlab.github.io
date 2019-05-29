@@ -361,6 +361,15 @@ We can check if a model works well for data in many different ways. We pay great
     </item>
     
     <item>
+      <title>Should I always transform my variables to make them normal?</title>
+      <link>/2015/09/14/should-i-always-transform-my-variables-to-make-them-normal/</link>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/14/should-i-always-transform-my-variables-to-make-them-normal/</guid>
+      <description>When I first learned data analysis, I always checked normality for each variable and made sure they were normally distributed before running any analyses, such as t-test, ANOVA, or linear regression. I thought normal distribution of variables was the important assumption to proceed to analyses. That’s why stats textbooks show you how to draw histograms and QQ-plots in the beginning of data analysis in the early chapters and see if they’re normally distributed, isn’t it?</description>
+    </item>
+    
+    <item>
       <title>Simulating Endogeneity</title>
       <link>/2015/09/10/simulating-endogeneity/</link>
       <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
