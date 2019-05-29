@@ -21,5 +21,15 @@
 hist(state.area)After a log transformation, notice the histogram is more or less symmetric.</description>
     </item>
     
+    <item>
+      <title>Understanding Diagnostic Plots for Linear Regression Analysis</title>
+      <link>/2015/09/21/understanding-diagnostic-plots-for-linear-regression-analysis/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/2015/09/21/understanding-diagnostic-plots-for-linear-regression-analysis/</guid>
+      <description>You ran a linear regression analysis and the stats software spit out a bunch of numbers. The results were significant (or not). You might think that you’re done with analysis. No, not yet. After running a regression analysis, you should check if the model works well for data.
+We can check if a model works well for data in many different ways. We pay great attention to regression results, such as slope coefficients, p-values, or R2 that tell us how well a model represents given data.</description>
+    </item>
+    
   </channel>
 </rss>
