@@ -79,5 +79,14 @@ In this post, we’ll start digging into word frequencies, relative frequencies 
       <description>IntroductionAs part of a series of workshops on quantitative analysis of text this fall, I started examining the comments submitted to President Ryan’s Ours to Shape website. The site invites people to share their ideas and insights for UVA going forward, particularly in the domains of service, discovery, and community. The website was only one venue for providing suggestions and voicing possibilities – President Ryan has hosted community discussions as well – but the website afforded an opportunity for individuals to chime in multiple times and at their convenience, so in theory should represent an especially inclusive collection.</description>
     </item>
     
+    <item>
+      <title>A Beginner’s Guide to Text Analysis with quanteda</title>
+      <link>/2018/11/27/a-beginner-s-guide-to-text-analysis-with-quanteda/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/11/27/a-beginner-s-guide-to-text-analysis-with-quanteda/</guid>
+      <description>A lot of introductory tutorials to quanteda assume that the reader has some base of knowledge about the program’s functionality or how it might be used. Other tutorials assume that the user is an expert in R and on what goes on under the hood when you’re coding. This introductory guide will assume none of that. Instead, I’m presuming a very basic understanding of R (like how to assign variables) and that you’ve just heard of quanteda for the first time today.</description>
+    </item>
+    
   </channel>
 </rss>
