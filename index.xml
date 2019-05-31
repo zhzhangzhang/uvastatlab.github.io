@@ -271,6 +271,34 @@ generate: create variablesHere we use the generate command to create a new vari
     </item>
     
     <item>
+      <title>Getting UN Comtrade Data with R</title>
+      <link>/2016/10/03/getting-un-comtrade-data-with-r/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/03/getting-un-comtrade-data-with-r/</guid>
+      <description>The UN Comtrade Database provides free access to global trade data. You can get data by using their data extraction interface or API. In this post, we share some possible ways of downloading, preparing and plotting trade data in R.
+Before running this script, you’ll need to install the rjson package if you haven’t done so before. Make sure your machine is connected to the Internet, and run install.packages(&#34;rjson”) - you only need to do this once.</description>
+    </item>
+    
+    <item>
+      <title>Using Data.gov APIs in R</title>
+      <link>/2016/10/03/using-data-gov-apis-in-r/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/03/using-data-gov-apis-in-r/</guid>
+      <description>Data.gov catalogs government data and makes them available on the web; you can find data in a variety of topics such as agriculture, business, climate, education, energy, finance, public safty and many more. It is a good start point for finding data if you don’t already know which particular data source to begin your search, however it can still be time consuming when it comes to actually downloading the raw data you need.</description>
+    </item>
+    
+    <item>
+      <title>Using Census Data API with R</title>
+      <link>/2016/09/29/using-census-data-api-with-r/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/09/29/using-census-data-api-with-r/</guid>
+      <description>Datasets provided by the US Census Bureau, such as Decennial Census and American Community Survey (ACS), are widely used by many researchers, among others. You can certainly find and download census data from the Census Bureau website, from our licensed data source Social Explorer, or other free sources such as IPUMS-USA, then load the data into one of the statistical packages or other softwares to analyze or present the data.</description>
+    </item>
+    
+    <item>
       <title>A tidyr Tutorial</title>
       <link>/2016/08/24/a-tidyr-tutorial/</link>
       <pubDate>Wed, 24 Aug 2016 00:00:00 +0000</pubDate>
