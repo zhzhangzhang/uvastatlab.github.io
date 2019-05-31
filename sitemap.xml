@@ -108,6 +108,36 @@
   </url>
   
   <url>
+    <loc>/2016/10/14/stata-basics-combine-data-append-and-merge/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/10/14/stata-basics-create-recode-and-label-variables/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/10/14/stata-basics-data-import-use-and-export/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/10/14/stata-basics-reshape-data/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/10/14/stata-basics-subset-data/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2016/10/14/stata-basics-foreach-and-forvalues/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2016/08/24/a-tidyr-tutorial/</loc>
     <lastmod>2016-08-24T00:00:00+00:00</lastmod>
   </url>
@@ -456,6 +486,18 @@
   <url>
     <loc>/</loc>
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stata/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/stata/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

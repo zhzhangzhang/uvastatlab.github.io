@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stata on StatLab Articles</title>
+    <link>/categories/stata/</link>
+    <description>Recent content in Stata on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Oct 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/stata/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stata Basics: Combine Data (Append and Merge)</title>
+      <link>/2016/10/14/stata-basics-combine-data-append-and-merge/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-combine-data-append-and-merge/</guid>
+      <description>When I first started working with data, which was in a statistics class, we mostly used clean and completed dataset as examples. Later on, I realize it’s not always the case when doing research or data analysis for other purposes; in reality, we often need to put two or more dataset together to be able to begin whatever statistic analysis tasks we would like to perform. In this post, I demonstrate how to combine datasets into one file in two typical ways: append and merge, that are row-wise combining and column-wise combining, respectively.</description>
+    </item>
+    
+    <item>
+      <title>Stata Basics: Create, Recode and Label Variables</title>
+      <link>/2016/10/14/stata-basics-create-recode-and-label-variables/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-create-recode-and-label-variables/</guid>
+      <description>This post demonstrates how to create new variables, recode existing variables and label variables and values of variables. We use variables of the census.dta data that come with Stata as examples.
+generate: create variablesHere we use the generate command to create a new variable representing populations younger than 18 years old. We do so by summing up the two existing variables: poplt5 (population &amp;lt; 5 years old) and pop5_17 (population of 5 to 17 years old).</description>
+    </item>
+    
+    <item>
+      <title>Stata Basics: Data Import, Use and Export</title>
+      <link>/2016/10/14/stata-basics-data-import-use-and-export/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-data-import-use-and-export/</guid>
+      <description>In Stata, the very first step of analyzing a dataset should be opening the dataset in Stata so that it knows which file you are going to work with. Yes, you can simply double click on a Stata data file that ends in .dta to open it, or you can do something fancier to achieve the same goal – like write some codes. Okay, there is at least one more reason than being fancier that makes me prefer to write syntax than clicking through things in Stata – I like to have everything I did recorded so that I can easily reproduce the same work or use the scripts again when working on similar tasks next time.</description>
+    </item>
+    
+    <item>
+      <title>Stata Basics: Reshape Data</title>
+      <link>/2016/10/14/stata-basics-reshape-data/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-reshape-data/</guid>
+      <description>In this post, I use a few examples to illustrate the two common data forms: wide form and long form, and how to convert datasets between the two forms – here we call it “reshape” data. Reshaping is often needed when you work with datasets that contain variables with some kinds of sequences, say, time-series data. It is fairly easy to transform data between wide and long forms in Stata using the -reshape- command, however you’ll want to be careful when you convert a dataset from one form to another so that you can eliminate possible mistakes in the process of transforming.</description>
+    </item>
+    
+    <item>
+      <title>Stata Basics: Subset Data</title>
+      <link>/2016/10/14/stata-basics-subset-data/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-subset-data/</guid>
+      <description>Sometimes only parts of a dataset mean something to you. In this post, we show you how to subset a dataset in Stata, by variables or by observations. We use the census.dta dataset installed with Stata as the sample data.
+* Load the data&amp;gt; sysuse census.dta(1980 Census data by state)* See the information of the data&amp;gt; describeContains data from /Applications/Stata/ado/base/c/census.dtaobs: 50 1980 Census data by statevars: 13 6 Apr 2014 15:43size: 2,900 ---------------------------------------------------------------------------storage display valuevariable name type format label variable label---------------------------------------------------------------------------state str14 %-14s Statestate2 str2 %-2s Two-letter state abbreviationregion int %-8.</description>
+    </item>
+    
+    <item>
+      <title>Stata Basics: foreach and forvalues</title>
+      <link>/2016/10/14/stata-basics-foreach-and-forvalues/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-foreach-and-forvalues/</guid>
+      <description>There are times we need to do some repetitive tasks in the process of data preparation, analysis or presentation, for instance, computing a set of variables in a same manner, rename or create a series of variables, or repetitively recode values of a number of variables. In this post, I show a few of simple example “loops” using Stata commands foreach, local and forvalues to handle some common simple repetitive tasks.</description>
+    </item>
+    
+  </channel>
+</rss>
