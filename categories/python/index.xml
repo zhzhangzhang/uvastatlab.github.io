@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on StatLab Articles</title>
+    <link>/categories/python/</link>
+    <description>Recent content in Python on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Guide to Python in QGIS aka How to Help Yourself: Part 1</title>
+      <link>/2019/06/03/a-guide-to-python-in-qgis-aka-how-to-help-yourself-part-1/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/06/03/a-guide-to-python-in-qgis-aka-how-to-help-yourself-part-1/</guid>
+      <description>This post is something I’ve been thinking about writing for a while and will be several parts. I was inspired to write it by my own trials and tribulations, which are still ongoing, while working with the QGIS API, trying to programmatically do stuff in QGIS instead of relying on available widgets and plugins. I have spent, and will probably continue to spend, many hours scouring the internet and especially Stack Overflow looking for answers of how to use various classes, methods, attributes, etc.</description>
+    </item>
+    
+    <item>
+      <title>How to Create and Export Print Layouts in Python for QGIS 3</title>
+      <link>/2019/02/15/how-to-create-and-export-print-layouts-in-python-for-qgis-3/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/15/how-to-create-and-export-print-layouts-in-python-for-qgis-3/</guid>
+      <description>I’ve been struggling off and on for literally months trying to create and export a print layout using Python for QGIS 3. Or PyQGIS 3 for short. I have finally figured out may of the ins and outs of the process and hopefully this will serve as a guide to save someone else a lot of effort and time.
+To begin I’ll point you to this link which has the full code, top to bottom.</description>
+    </item>
+    
+    <item>
+      <title>How to apply a graduated color symbology to a layer using Python for QGIS 3</title>
+      <link>/2018/12/07/how-to-apply-a-graduated-color-symbology-to-a-layer-using-python-for-qgis-3/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/07/how-to-apply-a-graduated-color-symbology-to-a-layer-using-python-for-qgis-3/</guid>
+      <description>I was recently working on a project in QGIS 3 with a member of UVA Health’s Oncologydepartment. This person wanted to take a set of patient data (after identifying info hadbeen removed) and after doing some other stuff, apply a graduated color scheme to theresults, shading them from light to dark based on intensity.
+You can find a sample dataset for this project here:https://github.com/epurpur/PyQGIS-Scripts/blob/master/TestZipCodes.zip
+This is a shapefile with a handful of zip codes in Virginia.</description>
+    </item>
+    
+    <item>
+      <title>How to use the field calculator in Python for QGIS 3</title>
+      <link>/2018/12/07/how-to-use-the-field-calculator-in-python-for-qgis-3/</link>
+      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/07/how-to-use-the-field-calculator-in-python-for-qgis-3/</guid>
+      <description>Recently, I have taken the dive into python scripting in QGIS. QGIS is a really niceopen source (and free!) alternative to ESRI’s ArcGIS. While QGIS is a little quirky andgenerally not quite as user friendly as ArcGIS, it still provides nearly the samefunctionality. Personally, I’ve become a fan of it an now have even taught a short,1 credit course in the University of Virginia’s Batten School of Public Policy titled:GIS for Public Policy.</description>
+    </item>
+    
+  </channel>
+</rss>

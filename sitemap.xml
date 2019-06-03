@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/06/03/a-guide-to-python-in-qgis-aka-how-to-help-yourself-part-1/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/05/14/reading-pdf-files-into-r-for-text-mining/</loc>
     <lastmod>2019-05-14T00:00:00+00:00</lastmod>
   </url>
@@ -28,6 +33,11 @@
   </url>
   
   <url>
+    <loc>/2019/02/15/how-to-create-and-export-print-layouts-in-python-for-qgis-3/</loc>
+    <lastmod>2019-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2019/01/31/analysis-of-ours-to-shape-comments-part-5/</loc>
     <lastmod>2019-01-31T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +60,16 @@
   <url>
     <loc>/2018/12/13/analysis-of-ours-to-shape-comments-part-1/</loc>
     <lastmod>2018-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/12/07/how-to-apply-a-graduated-color-symbology-to-a-layer-using-python-for-qgis-3/</loc>
+    <lastmod>2018-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/12/07/how-to-use-the-field-calculator-in-python-for-qgis-3/</loc>
+    <lastmod>2018-12-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -428,7 +448,7 @@
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -447,6 +467,18 @@
   <url>
     <loc>/tags/proportional-odds-logisitic-regression/</loc>
     <lastmod>2017-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/python/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/qgis/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -506,18 +538,18 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/stata/</loc>
-    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/stata/</loc>
+    <lastmod>2016-10-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/stata/</loc>
     <lastmod>2016-10-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
