@@ -6,10 +6,19 @@
     <description>Recent content in Data Wrangling on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/data-wrangling/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Creating a SQLite database for use with R</title>
+      <link>/2020/03/05/creating-a-sqlite-database-for-use-with-r/</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/05/creating-a-sqlite-database-for-use-with-r/</guid>
+      <description>When you import or load data into R, the data are stored in Random Access Memory (RAM). This is the memory that is deleted when you close R or shut off your computer. It’s very fast but temporary. If you save your data, it is saved to your hard drive. But when you open R again and load the data, once again it is loaded into RAM. While many newer computers come with lots of RAM (such as 16 GB), it’s not an infinite amount.</description>
+    </item>
     
     <item>
       <title>An Introduction to Analyzing Twitter Data with R</title>
