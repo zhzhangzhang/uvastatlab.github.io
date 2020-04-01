@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Loglinear Models on StatLab Articles</title>
+    <title>loglinear models on StatLab Articles</title>
     <link>/tags/loglinear-models/</link>
-    <description>Recent content in Loglinear Models on StatLab Articles</description>
+    <description>Recent content in loglinear models on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0000</lastBuildDate>

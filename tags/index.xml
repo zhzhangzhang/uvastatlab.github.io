@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on StatLab Articles</title>
@@ -6,58 +6,13 @@
     <description>Recent content in Tags on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Api</title>
-      <link>/tags/api/</link>
-      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Binary Logistic Regression</title>
-      <link>/tags/binary-logistic-regression/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/binary-logistic-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bootstrap</title>
-      <link>/tags/bootstrap/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Count Regression</title>
-      <link>/tags/count-regression/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/count-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cronbachs Alpha</title>
-      <link>/tags/cronbachs-alpha/</link>
-      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cronbachs-alpha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Data Wrangling</title>
+      <title>data wrangling</title>
       <link>/tags/data-wrangling/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
@@ -66,160 +21,16 @@
     </item>
     
     <item>
-      <title>Diagnostic Plots</title>
-      <link>/tags/diagnostic-plots/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      <title>count regression</title>
+      <link>/tags/count-regression/</link>
+      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/diagnostic-plots/</guid>
+      <guid>/tags/count-regression/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Effect Plots</title>
-      <link>/tags/effect-plots/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/effect-plots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Endogeneity</title>
-      <link>/tags/endogeneity/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/endogeneity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Factor Analysis</title>
-      <link>/tags/factor-analysis/</link>
-      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/factor-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hierarchical Regression</title>
-      <link>/tags/hierarchical-regression/</link>
-      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hierarchical-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hurdle Models</title>
-      <link>/tags/hurdle-models/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hurdle-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactions</title>
-      <link>/tags/interactions/</link>
-      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/interactions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear Regression</title>
-      <link>/tags/linear-regression/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linear-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Log Transformations</title>
-      <link>/tags/log-transformations/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/log-transformations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Loglinear Models</title>
-      <link>/tags/loglinear-models/</link>
-      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/loglinear-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lubridate</title>
-      <link>/tags/lubridate/</link>
-      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/lubridate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manova</title>
-      <link>/tags/manova/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/manova/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Matching</title>
-      <link>/tags/matching/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/matching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mediation</title>
-      <link>/tags/mediation/</link>
-      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mediation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Model Comparison</title>
-      <link>/tags/model-comparison/</link>
-      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/model-comparison/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiple Imputation</title>
-      <link>/tags/multiple-imputation/</link>
-      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multiple-imputation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multivariate Multiple Regression</title>
-      <link>/tags/multivariate-multiple-regression/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/multivariate-multiple-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Negative Binomial Regression</title>
+      <title>negative binomial regression</title>
       <link>/tags/negative-binomial-regression/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -228,43 +39,7 @@
     </item>
     
     <item>
-      <title>Normality Assumption</title>
-      <link>/tags/normality-assumption/</link>
-      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/normality-assumption/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Odds Ratio</title>
-      <link>/tags/odds-ratio/</link>
-      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/odds-ratio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ordinal Logistic Regression</title>
-      <link>/tags/ordinal-logistic-regression/</link>
-      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ordinal-logistic-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pairwise Comparisons</title>
-      <link>/tags/pairwise-comparisons/</link>
-      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pairwise-comparisons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Poisson Regression</title>
+      <title>poisson regression</title>
       <link>/tags/poisson-regression/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -273,106 +48,7 @@
     </item>
     
     <item>
-      <title>Power Analysis</title>
-      <link>/tags/power-analysis/</link>
-      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/power-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Propensity Scores</title>
-      <link>/tags/propensity-scores/</link>
-      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/propensity-scores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Proportional Odds Logisitic Regression</title>
-      <link>/tags/proportional-odds-logisitic-regression/</link>
-      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/proportional-odds-logisitic-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qgis</title>
-      <link>/tags/qgis/</link>
-      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/qgis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qqplot</title>
-      <link>/tags/qqplot/</link>
-      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/qqplot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quantile Regression</title>
-      <link>/tags/quantile-regression/</link>
-      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/quantile-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Squared</title>
-      <link>/tags/r-squared/</link>
-      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/r-squared/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relative Risk</title>
-      <link>/tags/relative-risk/</link>
-      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/relative-risk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rootogram</title>
-      <link>/tags/rootogram/</link>
-      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rootogram/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scale Reliability</title>
-      <link>/tags/scale-reliability/</link>
-      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/scale-reliability/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sentiment Analysis</title>
-      <link>/tags/sentiment-analysis/</link>
-      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/sentiment-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation</title>
+      <title>simulation</title>
       <link>/tags/simulation/</link>
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
@@ -381,25 +57,16 @@
     </item>
     
     <item>
-      <title>Stata</title>
-      <link>/tags/stata/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      <title>qgis</title>
+      <link>/tags/qgis/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/stata/</guid>
+      <guid>/tags/qgis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Text Analysis</title>
-      <link>/tags/text-analysis/</link>
-      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/text-analysis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Text Mining</title>
+      <title>text mining</title>
       <link>/tags/text-mining/</link>
       <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
       
@@ -408,7 +75,34 @@
     </item>
     
     <item>
-      <title>Twitter</title>
+      <title>binary logistic regression</title>
+      <link>/tags/binary-logistic-regression/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/binary-logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power analysis</title>
+      <link>/tags/power-analysis/</link>
+      <pubDate>Sat, 04 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/power-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sentiment analysis</title>
+      <link>/tags/sentiment-analysis/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sentiment-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twitter</title>
       <link>/tags/twitter/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
@@ -417,16 +111,25 @@
     </item>
     
     <item>
-      <title>Two Stage Least Squares</title>
-      <link>/tags/two-stage-least-squares/</link>
-      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      <title>multiple imputation</title>
+      <link>/tags/multiple-imputation/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/two-stage-least-squares/</guid>
+      <guid>/tags/multiple-imputation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Type M Error</title>
+      <title>text analysis</title>
+      <link>/tags/text-analysis/</link>
+      <pubDate>Thu, 31 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/text-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>type m error</title>
       <link>/tags/type-m-error/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -435,7 +138,7 @@
     </item>
     
     <item>
-      <title>Type S Error</title>
+      <title>type s error</title>
       <link>/tags/type-s-error/</link>
       <pubDate>Wed, 31 Oct 2018 00:00:00 +0000</pubDate>
       
@@ -444,7 +147,169 @@
     </item>
     
     <item>
-      <title>Visualization</title>
+      <title>diagnostic plots</title>
+      <link>/tags/diagnostic-plots/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/diagnostic-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linear regression</title>
+      <link>/tags/linear-regression/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log transformations</title>
+      <link>/tags/log-transformations/</link>
+      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/log-transformations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>matching</title>
+      <link>/tags/matching/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/matching/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>propensity scores</title>
+      <link>/tags/propensity-scores/</link>
+      <pubDate>Tue, 24 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/propensity-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mediation</title>
+      <link>/tags/mediation/</link>
+      <pubDate>Fri, 02 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mediation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>manova</title>
+      <link>/tags/manova/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/manova/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multivariate multiple regression</title>
+      <link>/tags/multivariate-multiple-regression/</link>
+      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/multivariate-multiple-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>effect plots</title>
+      <link>/tags/effect-plots/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/effect-plots/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>proportional odds logisitic regression</title>
+      <link>/tags/proportional-odds-logisitic-regression/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/proportional-odds-logisitic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lubridate</title>
+      <link>/tags/lubridate/</link>
+      <pubDate>Wed, 11 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/lubridate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bootstrap</title>
+      <link>/tags/bootstrap/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/bootstrap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wilcoxon rank sum test</title>
+      <link>/tags/wilcoxon-rank-sum-test/</link>
+      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/wilcoxon-rank-sum-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pairwise comparisons</title>
+      <link>/tags/pairwise-comparisons/</link>
+      <pubDate>Thu, 20 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pairwise-comparisons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stata</title>
+      <link>/tags/stata/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/stata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api</title>
+      <link>/tags/api/</link>
+      <pubDate>Mon, 03 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>factor analysis</title>
+      <link>/tags/factor-analysis/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/factor-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loglinear models</title>
+      <link>/tags/loglinear-models/</link>
+      <pubDate>Tue, 12 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/loglinear-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>visualization</title>
       <link>/tags/visualization/</link>
       <pubDate>Fri, 10 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -453,11 +318,146 @@
     </item>
     
     <item>
-      <title>Wilcoxon Rank Sum Test</title>
-      <link>/tags/wilcoxon-rank-sum-test/</link>
-      <pubDate>Thu, 05 Jan 2017 00:00:00 +0000</pubDate>
+      <title>hurdle models</title>
+      <link>/tags/hurdle-models/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>/tags/wilcoxon-rank-sum-test/</guid>
+      <guid>/tags/hurdle-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rootogram</title>
+      <link>/tags/rootogram/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rootogram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hierarchical regression</title>
+      <link>/tags/hierarchical-regression/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/hierarchical-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model comparison</title>
+      <link>/tags/model-comparison/</link>
+      <pubDate>Fri, 20 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/model-comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interactions</title>
+      <link>/tags/interactions/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/interactions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>odds ratio</title>
+      <link>/tags/odds-ratio/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/odds-ratio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>relative risk</title>
+      <link>/tags/relative-risk/</link>
+      <pubDate>Fri, 08 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/relative-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cronbach&#39;s alpha</title>
+      <link>/tags/cronbachs-alpha/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cronbachs-alpha/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scale reliability</title>
+      <link>/tags/scale-reliability/</link>
+      <pubDate>Mon, 16 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scale-reliability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>r-squared</title>
+      <link>/tags/r-squared/</link>
+      <pubDate>Sat, 17 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-squared/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ordinal logistic regression</title>
+      <link>/tags/ordinal-logistic-regression/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/ordinal-logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantile regression</title>
+      <link>/tags/quantile-regression/</link>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quantile-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>normality assumption</title>
+      <link>/tags/normality-assumption/</link>
+      <pubDate>Mon, 14 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/normality-assumption/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>endogeneity</title>
+      <link>/tags/endogeneity/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/endogeneity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>two stage least squares</title>
+      <link>/tags/two-stage-least-squares/</link>
+      <pubDate>Thu, 10 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/two-stage-least-squares/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>qqplot</title>
+      <link>/tags/qqplot/</link>
+      <pubDate>Wed, 26 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/qqplot/</guid>
       <description></description>
     </item>
     

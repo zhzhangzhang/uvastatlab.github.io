@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on StatLab Articles</title>
@@ -292,6 +292,15 @@ generate: create variablesHere we use the generate command to create a new vari
     </item>
     
     <item>
+      <title>Stata Basics: foreach and forvalues</title>
+      <link>/2016/10/14/stata-basics-foreach-and-forvalues/</link>
+      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/14/stata-basics-foreach-and-forvalues/</guid>
+      <description>There are times we need to do some repetitive tasks in the process of data preparation, analysis or presentation, for instance, computing a set of variables in a same manner, rename or create a series of variables, or repetitively recode values of a number of variables. In this post, I show a few of simple example “loops” using Stata commands foreach, local and forvalues to handle some common simple repetitive tasks.</description>
+    </item>
+    
+    <item>
       <title>Stata Basics: Reshape Data</title>
       <link>/2016/10/14/stata-basics-reshape-data/</link>
       <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
@@ -308,15 +317,6 @@ generate: create variablesHere we use the generate command to create a new vari
       <guid>/2016/10/14/stata-basics-subset-data/</guid>
       <description>Sometimes only parts of a dataset mean something to you. In this post, we show you how to subset a dataset in Stata, by variables or by observations. We use the census.dta dataset installed with Stata as the sample data.
 * Load the data&amp;gt; sysuse census.dta(1980 Census data by state)* See the information of the data&amp;gt; describeContains data from /Applications/Stata/ado/base/c/census.dtaobs: 50 1980 Census data by statevars: 13 6 Apr 2014 15:43size: 2,900 ---------------------------------------------------------------------------storage display valuevariable name type format label variable label---------------------------------------------------------------------------state str14 %-14s Statestate2 str2 %-2s Two-letter state abbreviationregion int %-8.</description>
-    </item>
-    
-    <item>
-      <title>Stata Basics: foreach and forvalues</title>
-      <link>/2016/10/14/stata-basics-foreach-and-forvalues/</link>
-      <pubDate>Fri, 14 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/2016/10/14/stata-basics-foreach-and-forvalues/</guid>
-      <description>There are times we need to do some repetitive tasks in the process of data preparation, analysis or presentation, for instance, computing a set of variables in a same manner, rename or create a series of variables, or repetitively recode values of a number of variables. In this post, I show a few of simple example “loops” using Stata commands foreach, local and forvalues to handle some common simple repetitive tasks.</description>
     </item>
     
     <item>
