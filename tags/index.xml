@@ -6,10 +6,37 @@
     <description>Recent content in Tags on StatLab Articles</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>linear regression</title>
+      <link>/tags/linear-regression/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/linear-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>modeling heteroscedasticity</title>
+      <link>/tags/modeling-heteroscedasticity/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/modeling-heteroscedasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>simulation</title>
+      <link>/tags/simulation/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/simulation/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>data wrangling</title>
@@ -44,15 +71,6 @@
       <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/poisson-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>simulation</title>
-      <link>/tags/simulation/</link>
-      <pubDate>Thu, 29 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/simulation/</guid>
       <description></description>
     </item>
     
@@ -152,15 +170,6 @@
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/diagnostic-plots/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linear regression</title>
-      <link>/tags/linear-regression/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linear-regression/</guid>
       <description></description>
     </item>
     

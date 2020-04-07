@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Modeling Non-Constant Variance</title>
+      <link>/2020/04/07/modeling-non-constant-variance/</link>
+      <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/07/modeling-non-constant-variance/</guid>
+      <description>One of the basic assumptions of linear modeling is constant, or homogeneous, variance. What does that mean exactly? Let’s simulate some data that satisfies this condition to illustrate the concept.
+Below we create a sorted vector of numbers ranging from 1 to 10 called x, and then create a vector of numbers called y that is a function of x. When we plot x vs y, we get a straight line with an intercept of 1.</description>
+    </item>
+    
+    <item>
       <title>Creating a SQLite database for use with R</title>
       <link>/2020/03/05/creating-a-sqlite-database-for-use-with-r/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
