@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>databases on StatLab Articles</title>
+    <link>/tags/databases/</link>
+    <description>Recent content in databases on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/databases/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Databases for Data Scientists</title>
+      <link>/2020/04/17/databases-for-data-scientists/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/04/17/databases-for-data-scientists/</guid>
+      <description>As data scientists, we’re often most excited about the final layer of analysis. Once all the data is cleaned and stored in a format readable by our favorite programming language (Python, R, STATA, etc), the most fun part of our work is when we’re finding counter-intuitive causations with statistical methods. If you can prove that the mutual presence of McDonalds really does prevent wars between countries or that an increase in diversity really does boost business profitability, that is a good day.</description>
+    </item>
+    
+  </channel>
+</rss>

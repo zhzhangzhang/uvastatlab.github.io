@@ -4,7 +4,32 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/databases/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/databases/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/04/17/databases-for-data-scientists/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +48,12 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/r/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/simulation/</loc>
-    <lastmod>2020-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-07T00:00:00+00:00</lastmod>
   </url>
   
