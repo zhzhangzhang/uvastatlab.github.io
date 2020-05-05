@@ -22,6 +22,15 @@ Below we create a sorted vector of numbers ranging from 1 to 10 called x, and th
     </item>
     
     <item>
+      <title>Getting Started with Regular Expressions</title>
+      <link>/2020/03/27/getting-started-with-regular-expressions/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/03/27/getting-started-with-regular-expressions/</guid>
+      <description>Regular expressions (or regex) are tools for matching patterns in character strings. These can be useful for finding words or letter patterns in text, parsing filenames for specific information, and interpreting input formatted in a variety of ways (e.g., phone numbers). The syntax of regular expressions is generally recognized across operating systems and programming languages. Although this tutorial will use R for examples, most of the same regex could be used in the unix commands or in python.</description>
+    </item>
+    
+    <item>
       <title>Creating a SQLite database for use with R</title>
       <link>/2020/03/05/creating-a-sqlite-database-for-use-with-r/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
