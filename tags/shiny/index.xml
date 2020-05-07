@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>shiny on StatLab Articles</title>
+    <link>/tags/shiny/</link>
+    <description>Recent content in shiny on StatLab Articles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/shiny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started with Shiny</title>
+      <link>/2020/05/07/getting-started-with-shiny/</link>
+      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/05/07/getting-started-with-shiny/</guid>
+      <description>What is Shiny?Shiny is an R package that facilitates the creation of interactive web apps using R code, which can be hosted locally, on the shinyapps server, or on your own server. Shiny apps can range from extremely simple to incredibly sophisticated. They can be written purely with R code or supplemented with HTML, CSS, or JavaScript. Visit R studio’s shiny gallery to view some examples. Among its many uses, shiny apps are a great way for researchers to engage others with their work and collected data.</description>
+    </item>
+    
+  </channel>
+</rss>
